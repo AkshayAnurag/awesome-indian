@@ -10,12 +10,12 @@ Welcome to the curated collection of amazing applications by Indian developers a
 - [Valuable Resources](#valuable-resources)
 
 ## Open Source
-#### Android apps
+### Android apps
 
+#### Ebooks
 <table>
     <thead>
         <tr>
-            <th style="text-align: center">Category</th>
             <th style="text-align: center">Name</th>
             <th style="text-align: center">Description</th>
             <th style="text-align: center">Contribute</th>
@@ -27,80 +27,6 @@ Welcome to the curated collection of amazing applications by Indian developers a
     </thead>
     <tbody>
         <tr>
-            <td>Productivity</td>
-            <td><strong>Linkora</strong></td>
-            <td>
-                Link organizer for Android and desktop with self-hosted sync
-            </td>
-            <!-- Contribute -->
-            <td style="text-align: center">
-                <a
-                    href="https://github.com/LinkoraApp/Linkora"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    <img
-                        src="https://img.shields.io/github/stars/LinkoraApp/Linkora?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
-                        alt="GitHub Repo stars"
-                    />
-                    <img
-                        src="https://img.shields.io/github/contributors/LinkoraApp/Linkora?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
-                        alt="GitHub contributors"
-                    />
-                    <img
-                        src="https://img.shields.io/github/issues/LinkoraApp/Linkora?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
-                        alt="GitHub Issues"
-                    />
-                </a>
-            </td>
-            <!-- Community -->
-            <td style="text-align: center">
-                <a
-                    href="https://discord.gg/ZDBXNtv8MD"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    <img
-                        src="https://img.shields.io/discord/1214971383352664104?style=plastic&amp;logo=discord&amp;logoColor=5865F2&amp;labelColor=white"
-                        alt="Discord"
-                    />
-                </a>
-                <a
-                    href="https://x.com/linkoraapp"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    <img
-                        src="https://img.shields.io/twitter/follow/linkoraapp?style=plastic&amp;logo=x&amp;logoColor=000000&amp;labelColor=white"
-                        alt="X (formerly Twitter) Follow"
-                    />
-                </a>
-            </td>
-            <!-- Web & Media -->
-            <td style="text-align: center">
-                X
-            </td>
-            <!-- Download -->
-            <td style="text-align: center">
-                <a
-                    href="https://f-droid.org/en/packages/com.sakethh.linkora/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    <img
-                        src="assets/images/get-it-on-fdroid.png"
-                        alt="Get it on F-Droid"
-                        height="60"
-                    />
-                </a>
-            </td>
-            <!-- Author -->
-            <td style="text-align: center">
-                <a href="#author-saketh-pathike">Saketh Pathike</a>
-            </td>
-        </tr>
-        <tr>
-            <td>Ebooks</td>
             <td><strong>Myne</strong></td>
             <td>
                 Android application to download &amp; read ebooks from the
@@ -206,8 +132,24 @@ Welcome to the curated collection of amazing applications by Indian developers a
                 <a href="#author-shivam">Shivam</a>
             </td>
         </tr>
+    </tbody>
+</table>
+
+#### Finance
+<table>
+    <thead>
         <tr>
-            <td>Finance</td>
+            <th style="text-align: center">Name</th>
+            <th style="text-align: center">Description</th>
+            <th style="text-align: center">Contribute</th>
+            <th style="text-align: center">Community</th>
+            <th style="text-align: center">Web & Media</th>
+            <th style="text-align: center">Download</th>
+            <th style="text-align: center">Author</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
             <td><strong>GreenStash</strong></td>
             <td>
                 Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money
@@ -312,8 +254,217 @@ Welcome to the curated collection of amazing applications by Indian developers a
                 <a href="#author-shivam">Shivam</a>
             </td>
         </tr>
+    </tbody>
+</table>
+
+#### Personalization
+<table>
+    <thead>
         <tr>
-            <td>Wellness</td>
+            <th style="text-align: center">Name</th>
+            <th style="text-align: center">Description</th>
+            <th style="text-align: center">Contribute</th>
+            <th style="text-align: center">Community</th>
+            <th style="text-align: center">Web & Media</th>
+            <th style="text-align: center">Download</th>
+            <th style="text-align: center">Author</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Personalization</td>
+            <td><strong>10-bit Clock Widget</strong></td>
+            <td>
+                A beautiful BCD clock for your home screen
+            </td>
+            <!-- Contribute -->
+            <td style="text-align: center">
+                <a
+                    href="http://github.com/ashutoshgngwr/10-bitClockWidget"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="https://img.shields.io/github/stars/ashutoshgngwr/10-bitClockWidget?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
+                        alt="GitHub Repo stars"
+                    />
+                    <img
+                        src="https://img.shields.io/github/contributors/ashutoshgngwr/10-bitClockWidget?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
+                        alt="GitHub contributors"
+                    />
+                    <img
+                        src="https://img.shields.io/github/issues/ashutoshgngwr/10-bitClockWidget?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
+                        alt="GitHub Issues"
+                    />
+                </a>
+            </td>
+            <!-- Community -->
+            <td style="text-align: center">
+                X
+            </td>
+            <!-- Web & Media -->
+            <td style="text-align: center">
+                <a
+                    href="https://ashutoshgngwr.github.io/10-bitClockWidget/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="https://raw.githubusercontent.com/ashutoshgngwr/10-bitClockWidget/master/fastlane/metadata/android/en-US/images/icon.png"
+                        alt="10-bit Clock for Android"
+                        height="30"
+                    />
+                </a>
+            </td>
+            <!-- Download -->
+            <td style="text-align: center">
+                <a
+                    href="https://f-droid.org/packages/com.github.ashutoshgngwr.tenbitclockwidget/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="assets/images/get-it-on-fdroid.png"
+                        alt="Get it on F-Droid"
+                        height="60"
+                    />
+                </a>
+                <a
+                    href="https://github.com/ashutoshgngwr/10-bitClockWidget/releases/latest"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="assets/images/get-it-on-github.png"
+                        alt="Get it on GitHub"
+                        height="60"
+                    />
+                </a>
+                <a
+                    href="https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.tenbitclockwidget"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="assets/images/get-it-on-play.png"
+                        alt="Get it on Google Play"
+                        height="60"
+                    />
+                </a>
+            </td>
+            <!-- Author -->
+            <td style="text-align: center">
+                <a href="#author-ashutosh-gangwar">Ashutosh Gangwar</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+#### Productivity
+<table>
+    <thead>
+        <tr>
+            <th style="text-align: center">Name</th>
+            <th style="text-align: center">Description</th>
+            <th style="text-align: center">Contribute</th>
+            <th style="text-align: center">Community</th>
+            <th style="text-align: center">Web & Media</th>
+            <th style="text-align: center">Download</th>
+            <th style="text-align: center">Author</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Linkora</strong></td>
+            <td>
+                Link organizer for Android and desktop with self-hosted sync
+            </td>
+            <!-- Contribute -->
+            <td style="text-align: center">
+                <a
+                    href="https://github.com/LinkoraApp/Linkora"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="https://img.shields.io/github/stars/LinkoraApp/Linkora?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
+                        alt="GitHub Repo stars"
+                    />
+                    <img
+                        src="https://img.shields.io/github/contributors/LinkoraApp/Linkora?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
+                        alt="GitHub contributors"
+                    />
+                    <img
+                        src="https://img.shields.io/github/issues/LinkoraApp/Linkora?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
+                        alt="GitHub Issues"
+                    />
+                </a>
+            </td>
+            <!-- Community -->
+            <td style="text-align: center">
+                <a
+                    href="https://discord.gg/ZDBXNtv8MD"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="https://img.shields.io/discord/1214971383352664104?style=plastic&amp;logo=discord&amp;logoColor=5865F2&amp;labelColor=white"
+                        alt="Discord"
+                    />
+                </a>
+                <a
+                    href="https://x.com/linkoraapp"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="https://img.shields.io/twitter/follow/linkoraapp?style=plastic&amp;logo=x&amp;logoColor=000000&amp;labelColor=white"
+                        alt="X (formerly Twitter) Follow"
+                    />
+                </a>
+            </td>
+            <!-- Web & Media -->
+            <td style="text-align: center">
+                X
+            </td>
+            <!-- Download -->
+            <td style="text-align: center">
+                <a
+                    href="https://f-droid.org/en/packages/com.sakethh.linkora/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="assets/images/get-it-on-fdroid.png"
+                        alt="Get it on F-Droid"
+                        height="60"
+                    />
+                </a>
+            </td>
+            <!-- Author -->
+            <td style="text-align: center">
+                <a href="#author-saketh-pathike">Saketh Pathike</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+#### Wellness
+<table>
+    <thead>
+        <tr>
+            <th style="text-align: center">Name</th>
+            <th style="text-align: center">Description</th>
+            <th style="text-align: center">Contribute</th>
+            <th style="text-align: center">Community</th>
+            <th style="text-align: center">Web & Media</th>
+            <th style="text-align: center">Download</th>
+            <th style="text-align: center">Author</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
             <td><strong>Noice</strong></td>
             <td>
                 Focus. Meditate. Relax. With natural calming noise
@@ -461,104 +612,18 @@ Welcome to the curated collection of amazing applications by Indian developers a
                 <a href="#author-ashutosh-gangwar">Ashutosh Gangwar</a>
             </td>
         </tr>
-        <tr>
-            <td>Personalization</td>
-            <td><strong>10-bit Clock Widget</strong></td>
-            <td>
-                A beautiful BCD clock for your home screen
-            </td>
-            <!-- Contribute -->
-            <td style="text-align: center">
-                <a
-                    href="http://github.com/ashutoshgngwr/10-bitClockWidget"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    <img
-                        src="https://img.shields.io/github/stars/ashutoshgngwr/10-bitClockWidget?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
-                        alt="GitHub Repo stars"
-                    />
-                    <img
-                        src="https://img.shields.io/github/contributors/ashutoshgngwr/10-bitClockWidget?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
-                        alt="GitHub contributors"
-                    />
-                    <img
-                        src="https://img.shields.io/github/issues/ashutoshgngwr/10-bitClockWidget?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
-                        alt="GitHub Issues"
-                    />
-                </a>
-            </td>
-            <!-- Community -->
-            <td style="text-align: center">
-                X
-            </td>
-            <!-- Web & Media -->
-            <td style="text-align: center">
-                <a
-                    href="https://ashutoshgngwr.github.io/10-bitClockWidget/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    <img
-                        src="https://raw.githubusercontent.com/ashutoshgngwr/10-bitClockWidget/master/fastlane/metadata/android/en-US/images/icon.png"
-                        alt="10-bit Clock for Android"
-                        height="30"
-                    />
-                </a>
-            </td>
-            <!-- Download -->
-            <td style="text-align: center">
-                <a
-                    href="https://f-droid.org/packages/com.github.ashutoshgngwr.tenbitclockwidget/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    <img
-                        src="assets/images/get-it-on-fdroid.png"
-                        alt="Get it on F-Droid"
-                        height="60"
-                    />
-                </a>
-                <a
-                    href="https://github.com/ashutoshgngwr/10-bitClockWidget/releases/latest"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    <img
-                        src="assets/images/get-it-on-github.png"
-                        alt="Get it on GitHub"
-                        height="60"
-                    />
-                </a>
-                <a
-                    href="https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.tenbitclockwidget"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    <img
-                        src="assets/images/get-it-on-play.png"
-                        alt="Get it on Google Play"
-                        height="60"
-                    />
-                </a>
-            </td>
-            <!-- Author -->
-            <td style="text-align: center">
-                <a href="#author-ashutosh-gangwar">Ashutosh Gangwar</a>
-            </td>
-        </tr>
     </tbody>
 </table>
 
 ---
 
 ## Closed Source
-#### Android apps
+### Android apps
 
+#### Game
 <table>
     <thead>
         <tr>
-            <th style="text-align: center">Category</th>
             <th style="text-align: center">Name</th>
             <th style="text-align: center">Description</th>
             <th style="text-align: center">Community</th>
@@ -569,7 +634,6 @@ Welcome to the curated collection of amazing applications by Indian developers a
     </thead>
     <tbody>
         <tr>
-            <td>Game</td>
             <td><strong>Tic Tac Toe II</strong></td>
             <td>
                 Comes with online multiplayer. Contains bugs and ads. Play at your own risk.
