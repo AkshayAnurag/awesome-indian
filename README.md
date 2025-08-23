@@ -452,6 +452,91 @@ Welcome to the curated collection of amazing applications by Indian developers a
                 <a href="#author-ashutosh-gangwar">Ashutosh Gangwar</a>
             </td>
         </tr>
+        <tr>
+            <td>Personalization</td>
+            <td><strong>10-bit Clock Widget</strong></td>
+            <td>
+                A beautiful BCD clock for your home screen
+            </td>
+            <!-- Contribute -->
+            <td style="text-align: center">
+                <a
+                    href="http://github.com/ashutoshgngwr/10-bitClockWidget"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="https://img.shields.io/github/stars/ashutoshgngwr/10-bitClockWidget?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
+                        alt="GitHub Repo stars"
+                    />
+                    <img
+                        src="https://img.shields.io/github/contributors/ashutoshgngwr/10-bitClockWidget?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
+                        alt="GitHub contributors"
+                    />
+                    <img
+                        src="https://img.shields.io/github/issues/ashutoshgngwr/10-bitClockWidget?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
+                        alt="GitHub Issues"
+                    />
+                </a>
+            </td>
+            <!-- Community -->
+            <td style="text-align: center">
+            </td>
+            <!-- Web & Media -->
+            <td style="text-align: center">
+                <a
+                    href="https://ashutoshgngwr.github.io/10-bitClockWidget/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="https://raw.githubusercontent.com/ashutoshgngwr/10-bitClockWidget/master/fastlane/metadata/android/en-US/images/icon.png"
+                        alt="10-bit Clock for Android"
+                        height="30"
+                    />
+                </a>
+            </td>
+            <!-- Download -->
+            <td style="text-align: center">
+                <a
+                    href="https://f-droid.org/packages/com.github.ashutoshgngwr.tenbitclockwidget/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="assets/images/get-it-on-fdroid.png"
+                        alt="Get it on F-Droid"
+                        height="60"
+                    />
+                </a>
+                <a
+                    href="https://github.com/ashutoshgngwr/10-bitClockWidget/releases/latest"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="assets/images/get-it-on-github.png"
+                        alt="Get it on GitHub"
+                        height="60"
+                    />
+                </a>
+                <a
+                    href="https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.tenbitclockwidget"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="assets/images/get-it-on-play.png"
+                        alt="Get it on Google Play"
+                        height="60"
+                    />
+                </a>
+            </td>
+            <!-- Author -->
+            <td style="text-align: center">
+                <a href="#author-ashutosh-gangwar">Ashutosh Gangwar</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
