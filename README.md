@@ -1,6 +1,14 @@
 # 🇮🇳 Awesome Indian Apps 🇮🇳
 Welcome to the curated collection of amazing applications by Indian developers and companies! Discover apps and the great people who built them!
 
+## Table of Contents
+- [Open Source](#open-source)
+  - [Android apps](#android-apps)
+- [Closed Source](#closed-source)
+  - [Android apps](#android-apps-1)
+- [Unsung heroes](#unsung-heroes)
+- [Valuable Resources](#valuable-resources)
+
 ## Open Source
 #### Android apps
 
