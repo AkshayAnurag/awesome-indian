@@ -16,13 +16,13 @@ Found an amazing Indian open-source app that should be featured here? Please con
             - ```[<WEBSITE NAME>](<LINK TO THE WEBSITE>)```, e.g. ```[Qmamu](https://qmamu.com)```
     - **Contribute**:
         - Link to the Source code repository (if open source). **Supported**: Github, Codeberg, Gitea
-        - For Github, use the following markdown:
+        - For **Github**, use the following markdown:
             - ```[GitHub Repo stars](https://img.shields.io/github/stars/<GITHUB USER NAME>/<REPO NAME>?style=plastic&logo=github&logoColor=181717&labelColor=white&link=<LINK TO THE GITHUB REPOSITORY>) ![GitHub contributors](https://img.shields.io/github/contributors/<GITHUB USER NAME>/<REPO NAME>?style=plastic&logo=github&logoColor=181717&labelColor=white&link=<LINK TO THE GITHUB REPOSITORY>) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/<GITHUB USER NAME>/<REPO NAME>?style=plastic&logo=github&logoColor=181717&labelColor=white&link=<LINK TO THE GITHUB REPOSITORY>)```
-        - For Gitlab, use the following markdown:
+        - For **Gitlab**, use the following markdown:
             - ```![GitLab Stars](https://img.shields.io/gitlab/stars/<GITLAB PROJECT PATH>?style=plastic&logo=gitlab&logoColor=FC6D26&labelColor=white&link=<LINK TO THE GITLAB REPOSITORY>) ![GitLab Contributors](https://img.shields.io/gitlab/contributors/<GITLAB PROJECT PATH>?style=plastic&logo=gitlab&logoColor=FC6D26&labelColor=white&link=<LINK TO THE GITLAB REPOSITORY>) ![GitLab Issues](https://img.shields.io/gitlab/issues/open/<GITLAB PROJECT PATH>?style=plastic&logo=gitlab&logoColor=FC6D26&labelColor=white&link=<LINK TO THE GITLAB REPOSITORY>)```
-        - For Codeberg, use the following markdown:
+        - For **Codeberg**, use the following markdown:
             - ```![Codeberg Stars](https://img.shields.io/gitea/stars/<CODEBERG USER NAME>/<REPO NAME>?gitea_url=https%3A%2F%2Fcodeberg.org%2F&style=plastic&logo=codeberg&logoColor=2185D0&labelColor=white&link=<LINK TO THE CODEBERG REPOSITORY>) ![Codeberg Issues](https://img.shields.io/gitea/issues/open/<CODEBERG USER NAME>/<REPO NAME>?gitea_url=https%3A%2F%2Fcodeberg.org%2F&style=plastic&logo=codeberg&logoColor=2185D0&labelColor=white&link=<LINK TO THE CODEBERG REPOSITORY>)```
-        - For Gitea, use the following markdown:
+        - For **Gitea**, use the following markdown:
             - ```![Gitea Stars](https://img.shields.io/gitea/stars/<GITEA USER NAME>/<REPO NAME>?style=plastic&logo=gitea&logoColor=609926&labelColor=white&link=<LINK TO THE GITEA REPOSITORY>) ![Gitea Issues](https://img.shields.io/gitea/issues/open/<GITEA USER NAME>/<REPO NAME>?style=plastic&logo=gitea&logoColor=609926&labelColor=white&link=<LINK TO THE GITEA REPOSITORY>)```
         - These are [Shields.io](https://shields.io) badges which fetch the latest stars on the repo, contributors count and number of issues. (No contributor count in case of Gitea/Codeberg)
         - The reason to include these details is to encourage the visitor to engage with the repository. (*We strongly believe that the Indian tech community has a lot of talented individuals who can have a lot of impact. All we need is a bit of encouragement!*)
