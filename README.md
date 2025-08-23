@@ -5,9 +5,9 @@ Welcome to the curated collection of amazing applications developed by Indian de
 ## Open Source
 ### ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-| Name | Category | Description | Contribute | Download | Author | Community/Website |
-|------|----------|-------------|------------|----------|--------|-------------------|
-| **Linkora** | Link organizer for Android and desktop with self-hosted sync | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/LinkoraApp/Linkora) | [![F-droid](https://img.shields.io/badge/F--Droid-1976D2?style=flat-square&logo=f-droid&logoColor=white)](https://f-droid.org/en/packages/com.sakethh.linkora/) |
+| Name | Category | Description | Author | Contribute | Community/Website | Download |
+|------|----------|-------------|--------|------------|-------------------|----------|
+| **Linkora** | Bookmark tools | Link organizer for Android and desktop with self-hosted sync | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sakethpathike) | ![GitHub Repo stars](https://img.shields.io/github/stars/LinkoraApp/Linkora?style=plastic&logo=github&logoColor=white&labelColor=100000&link=https%3A%2F%2Fgithub.com%2FLinkoraApp%2FLinkora) ![GitHub contributors](https://img.shields.io/github/contributors/LinkoraApp/Linkora?style=plastic&logo=github&logoColor=white&labelColor=100000&link=https%3A%2F%2Fgithub.com%2FLinkoraApp%2FLinkora) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/LinkoraApp/Linkora?style=plastic&logo=github&logoColor=white&labelColor=100000&link=https%3A%2F%2Fgithub.com%2FLinkoraApp%2FLinkora) | ![Discord](https://img.shields.io/discord/1214971383352664104?style=plastic&logo=discord&logoColor=white&label=Discord&labelColor=5865F2&link=https%3A%2F%2Fdiscord.gg%2FZDBXNtv8MD) | [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/en/packages/com.sakethh.linkora/) |
 
 ---
 
