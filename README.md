@@ -19,7 +19,7 @@ Welcome to the curated collection of amazing applications by Indian developers a
     </thead>
     <tbody>
         <tr>
-            <td>Bookmark tools</td>
+            <td>Productivity</td>
             <td><strong>Linkora</strong></td>
             <td>
                 Link organizer for Android and desktop with self-hosted sync
