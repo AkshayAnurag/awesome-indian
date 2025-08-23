@@ -272,7 +272,6 @@ Welcome to the curated collection of amazing applications by Indian developers a
     </thead>
     <tbody>
         <tr>
-            <td>Personalization</td>
             <td><strong>10-bit Clock Widget</strong></td>
             <td>
                 A beautiful BCD clock for your home screen
@@ -299,8 +298,8 @@ Welcome to the curated collection of amazing applications by Indian developers a
                 </a>
             </td>
             <!-- Community -->
-            <td style="text-align: center">
-                X
+            <td>
+                <div align="center">X</div>
             </td>
             <!-- Web & Media -->
             <td style="text-align: center">
@@ -424,8 +423,8 @@ Welcome to the curated collection of amazing applications by Indian developers a
                 </a>
             </td>
             <!-- Web & Media -->
-            <td style="text-align: center">
-                X
+            <td>
+                <div align="center">X</div>
             </td>
             <!-- Download -->
             <td style="text-align: center">
@@ -639,12 +638,12 @@ Welcome to the curated collection of amazing applications by Indian developers a
                 Comes with online multiplayer. Contains bugs and ads. Play at your own risk.
             </td>
             <!-- Community -->
-            <td style="text-align: center">
-                X
+            <td>
+                <div align="center">X</div>
             </td>
             <!-- Web & Media -->
-            <td style="text-align: center">
-                X
+            <td>
+                <div align="center">X</div>
             </td>
             <!-- Download -->
             <td style="text-align: center">
