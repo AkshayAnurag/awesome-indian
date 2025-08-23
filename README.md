@@ -91,7 +91,7 @@ Welcome to the curated collection of amazing applications by Indian developers a
             </td>
         </tr>
         <tr>
-            <td>E-book downloaders &amp; readers</td>
+            <td>Ebooks</td>
             <td><strong>Myne</strong></td>
             <td>
                 Android application to download &amp; read ebooks from the
