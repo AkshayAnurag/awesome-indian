@@ -7,13 +7,6 @@ Found an amazing Indian app that should be featured here? It can be open-source 
     - **Category**: Choose from one of the existing categories or suggest a new one
     - **Name**: Name of the application
     - **Description**: Official description from the GitHub repository or app store. Keep it brief
-    - **Author**:
-        - Link to author profile/website. **Supported**: LinkedIn, Website
-        - It can be the profile of the owner of the GitHub Repo, the publisher of the app or, in case of companies, a link to their website
-        - For LinkedIn profile, use the following markdown:
-            - ```[<img src="assets/images/linkedin.png" alt="LinkedIn" height="20" />](https://in.linkedin.com/in/<USER NAME>)```
-        - For website, use the following markdown:
-            - ```[<img src="https://<WEBSITE URL>/favicon.ico" alt="<TITLE OF THE WEBSITE>" height="20">](<WEBSITE URL>)```, e.g. ```[<img src="https://qmamu.com/favicon.ico" alt="Qmamu" height="20">](https://qmamu.com)```
     - **Contribute**:
         - Link to the Source code repository (if open source). **Supported**: GitHub, Gitlab, Codeberg, Gitea
         - For **GitHub**, use the following markdown:
@@ -28,7 +21,7 @@ Found an amazing Indian app that should be featured here? It can be open-source 
         - Feel free to add badges for more than one platform, e.g. if a user has the same repository on GitHub and Gitlab, feel free to add both.
         - The reason to include these details is to encourage the visitor to engage with the repository. (*We strongly believe that the Indian tech community has a lot of talented individuals who can have a lot of impact. All we need is a bit of encouragement!*)
     - **Community**:
-        - Links to communities run by the author/company. **Supported**: Discord, Telegram, Reddit
+        - Links to communities run by the author/company. **Supported**: Discord, Telegram, Reddit, Twitter
         - For Discord servers, use the following markdown:
             - ```[![Discord](https://img.shields.io/discord/<DISCORD SERVER ID>?style=plastic&logo=discord&logoColor=5865F2&label=Discord&labelColor=white)](<LINK TO THE DISCORD SERVER>)```
             - **Required**: You need the Discord server ID in order to create the above [Shields.io](https://shields.io) badge. (*[Read this](https://shields.io/badges/discord) for instructions on how to get the server ID*)
@@ -36,6 +29,7 @@ Found an amazing Indian app that should be featured here? It can be open-source 
             - ```[![Telegram](https://img.shields.io/badge/Join-26A5E4?style=plastic&logo=telegram&logoColor=26A5E4&labelColor=white)](<LINK TO THE TELEGRAM CHANNEL/GROUP>)```
         - For Reddit subreddit, use the following markdown:
             - ```[<img src="assets/images/reddit.png" alt="Reddit" height="30" />](<LINK TO THE SUBREDDIT>)```
+        - F
     - **Download**:
         - Link to the download plaform
         - Supported:
