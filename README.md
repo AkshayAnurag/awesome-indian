@@ -261,6 +261,76 @@ Welcome to the curated collection of amazing applications by Indian developers a
                 <a href="#author-shivam">Shivam</a>
             </td>
         </tr>
+        <tr>
+            <td>Wellness</td>
+            <td><strong>Noice</strong></td>
+            <td>
+                Focus. Meditate. Relax. With natural calming noise
+            </td>
+            <!-- Contribute -->
+            <td style="text-align: center">
+                <a
+                    href="https://github.com/trynoice/android-app"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="https://img.shields.io/github/stars/trynoice/android-app?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
+                        alt="GitHub Repo stars"
+                    />
+                    <img
+                        src="https://img.shields.io/github/contributors/trynoice/android-app?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
+                        alt="GitHub contributors"
+                    />
+                    <img
+                        src="https://img.shields.io/github/issues/trynoice/android-app?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
+                        alt="GitHub Issues"
+                    />
+                </a>
+            </td>
+            <!-- Community -->
+            <td style="text-align: center">
+                <a
+                    href="https://discord.gg/ZDBXNtv8MD"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="https://img.shields.io/discord/1214971383352664104?style=plastic&amp;logo=discord&amp;logoColor=5865F2&amp;labelColor=white"
+                        alt="Discord"
+                    />
+                </a>
+            </td>
+            <!-- Download -->
+            <td style="text-align: center">
+                <a
+                    href="https://f-droid.org/app/com.github.ashutoshgngwr.noice"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="assets/images/get-it-on-fdroid.png"
+                        alt="Get it on F-Droid"
+                        height="60"
+                    />
+                </a>
+                <a
+                    href="https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.noice"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="assets/images/get-it-on-play.png"
+                        alt="Get it on Google Play"
+                        height="60"
+                    />
+                </a>
+            </td>
+            <!-- Author -->
+            <td style="text-align: center">
+                <a href="#author-ashutosh-gangwar ">Ashutosh Gangwar</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
