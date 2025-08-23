@@ -1,6 +1,6 @@
 # 🇮🇳 Indian Apps Showcase 🇮🇳
 
-Welcome to the curated collection of amazing applications developed by Indian developers and companies!
+Welcome to the curated collection of amazing applications by Indian developers and companies!
 
 ## Open Source
 ### ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)

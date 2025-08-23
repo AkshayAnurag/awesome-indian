@@ -48,6 +48,5 @@ Found an amazing Indian open-source app that should be featured here? Please con
 #### **NOTE**: Please DO NOT change the style of any of the markdown text. All rows should follow the same general style.
 
 ### Submission Guidelines
-
-- Primary development/maintainership should be by **Indian developers or companies**
+- Owner of the repository/publisher of the app should be an **Indian developer or Indian company**
 - Feel free to start a new issue if you think that we need to support other platforms
