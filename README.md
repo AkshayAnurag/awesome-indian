@@ -169,6 +169,98 @@ Welcome to the curated collection of amazing applications by Indian developers a
                 <a href="#author-shivam">Shivam</a>
             </td>
         </tr>
+        <tr>
+            <td>Finance</td>
+            <td><strong>GreenStash</strong></td>
+            <td>
+                Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money
+            </td>
+            <!-- Contribute -->
+            <td style="text-align: center">
+                <a
+                    href="https://github.com/Pool-Of-Tears/GreenStash"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="https://img.shields.io/github/stars/Pool-Of-Tears/GreenStash?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
+                        alt="GitHub Repo stars"
+                    />
+                    <img
+                        src="https://img.shields.io/github/contributors/Pool-Of-Tears/GreenStash?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
+                        alt="GitHub contributors"
+                    />
+                    <img
+                        src="https://img.shields.io/github/issues/Pool-Of-Tears/GreenStash?style=plastic&amp;logo=github&amp;logoColor=181717&amp;labelColor=white"
+                        alt="GitHub Issues"
+                    />
+                </a>
+            </td>
+            <!-- Community -->
+            <td style="text-align: center">
+                <a
+                    href="https://t.me/PotApps"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="https://img.shields.io/badge/Join-26A5E4?style=plastic&amp;logo=telegram&amp;logoColor=26A5E4&amp;labelColor=white"
+                        alt="Telegram"
+                    />
+                </a>
+            </td>
+            <!-- Download -->
+            <td style="text-align: center">
+                <a
+                    href="https://f-droid.org/packages/com.starry.greenstash/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="assets/images/get-it-on-fdroid.png"
+                        alt="Get it on F-Droid"
+                        height="60"
+                    />
+                </a>
+                <a
+                    href="https://apt.izzysoft.de/fdroid/index/apk/com.starry.greenstash"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="assets/images/get-it-on-izzyondroid.png"
+                        alt="Get it on IzzyOnDroid"
+                        height="60"
+                    />
+                </a>
+                <a
+                    href="https://github.com/Pool-Of-Tears/GreenStash/releases/latest"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="assets/images/get-it-on-github.png"
+                        alt="Get it on GitHub"
+                        height="60"
+                    />
+                </a>
+                <a
+                    href="https://play.google.com/store/apps/details?id=com.starry.greenstash"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="assets/images/get-it-on-play.png"
+                        alt="Get it on Google Play"
+                        height="60"
+                    />
+                </a>
+            </td>
+            <!-- Author -->
+            <td style="text-align: center">
+                <a href="#author-shivam">Shivam</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
@@ -198,7 +290,7 @@ This repository is a homage to the ones we don't know about, the ones we rarely 
     </thead>
     <tbody>
         <tr id="author-saketh-pathike">
-            <td style="text-align: center">Saketh Pathike</td>
+            <td>Saketh Pathike</td>
             <!-- Github -->
             <td style="text-align: center">
                <a
@@ -295,7 +387,7 @@ This repository is a homage to the ones we don't know about, the ones we rarely 
             </td>
         </tr>
         <tr id="author-shivam">
-            <td style="text-align: center">Shivam</td>
+            <td>Shivam</td>
             <!-- Github -->
             <td style="text-align: center">
                <a
