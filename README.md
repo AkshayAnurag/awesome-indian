@@ -5,15 +5,15 @@ Welcome to the curated collection of amazing applications developed by Indian de
 ## Open Source
 ### ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-| App | Description | Source | Download |
-|-----|-------------|--------|---------|
+| Name | Category | Description | Contribute | Download | Author | Community/Website |
+|------|----------|-------------|------------|----------|--------|-------------------|
 | **Linkora** | Link organizer for Android and desktop with self-hosted sync | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/LinkoraApp/Linkora) | [![F-droid](https://img.shields.io/badge/F--Droid-1976D2?style=flat-square&logo=f-droid&logoColor=white)](https://f-droid.org/en/packages/com.sakethh.linkora/) |
 
 ---
 
 ## Closed Source
-| App | Description | Source | Download |
-|-----|-------------|--------|---------|
+| Name | Category | Description | Contribute | Download | Author | Community/Website |
+|------|----------|-------------|------------|----------|--------|-------------------|
 
 ---
 
