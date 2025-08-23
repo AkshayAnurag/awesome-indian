@@ -2,7 +2,7 @@
 Welcome to the curated collection of amazing applications by Indian developers and companies! Discover apps and the great people who built them!
 
 ## Open Source
-### ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### Android apps
 
 <table>
     <thead>
@@ -171,13 +171,6 @@ Welcome to the curated collection of amazing applications by Indian developers a
         </tr>
     </tbody>
 </table>
-
-
----
-
-## Closed Source
-
-### ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
