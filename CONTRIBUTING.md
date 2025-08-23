@@ -1,9 +1,9 @@
-Found an amazing Indian open-source app that should be featured here? Please contribute!
+Found an amazing Indian app that should be featured here? It can be open-source as well as closed source. Feel free to contribute!
 
-### How to Add an App
+### How to add an app
 
-1. **Fork this repository**
-2. **Add app details** to the appropriate table with the following details:
+1. Fork this repository
+2. Add app details to the appropriate table with the following details:
     - **Category**: Choose from one of the existing categories or suggest a new one
     - **Name**: Name of the application
     - **Description**: Official description from the Github repository or app store. Keep it brief
@@ -43,9 +43,9 @@ Found an amazing Indian open-source app that should be featured here? Please con
             - For F-Droid, use the following markdown:
                 - ```[<img src="assets/images/get-it-on-fdroid.png" alt="Get it on F-Droid" height="60">](<LINK TO FDROID PACKAGE>)```
         - Feel free to add links for more than one download platform
-3. **Submit a Pull Request**
+3. Submit a Pull Request
 
-#### **NOTE**: Please DO NOT change the style of any of the markdown text. All rows should follow the same general style.
+#### **NOTE**: Please <ins>DO NOT</ins> change the style of any of the markdown text. All rows should follow the same general style.
 
 ### Submission Guidelines
 - Owner of the repository/publisher of the app should be an **Indian developer or Indian company**
