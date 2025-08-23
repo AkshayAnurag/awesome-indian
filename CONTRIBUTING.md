@@ -6,17 +6,17 @@ Found an amazing Indian app that should be featured here? It can be open-source 
 2. Add app details to the appropriate table with the following details:
     - **Category**: Choose from one of the existing categories or suggest a new one
     - **Name**: Name of the application
-    - **Description**: Official description from the Github repository or app store. Keep it brief
+    - **Description**: Official description from the GitHub repository or app store. Keep it brief
     - **Author**:
-        - Link to author profile. **Supported**: LinkedIn
-        - It can be the profile of the owner of the Github Repo, the publisher of the app or, in case of companies, a link to their website
+        - Link to author profile/website. **Supported**: LinkedIn, Website
+        - It can be the profile of the owner of the GitHub Repo, the publisher of the app or, in case of companies, a link to their website
         - For LinkedIn profile, use the following markdown:
             - ```[<img src="assets/images/linkedin.png" alt="LinkedIn" height="20" />](https://in.linkedin.com/in/<USER NAME>)```
         - For website, use the following markdown:
-            - ```[<WEBSITE NAME>](<LINK TO THE WEBSITE>)```, e.g. ```[Qmamu](https://qmamu.com)```
+            - ```[<img src="https://<WEBSITE URL>/favicon.ico" alt="<TITLE OF THE WEBSITE>" height="20">](<WEBSITE URL>)```, e.g. ```[<img src="https://qmamu.com/favicon.ico" alt="Qmamu" height="20">](https://qmamu.com)```
     - **Contribute**:
-        - Link to the Source code repository (if open source). **Supported**: Github, Gitlab, Codeberg, Gitea
-        - For **Github**, use the following markdown:
+        - Link to the Source code repository (if open source). **Supported**: GitHub, Gitlab, Codeberg, Gitea
+        - For **GitHub**, use the following markdown:
             - ```[![GitHub Repo stars](https://img.shields.io/github/stars/<GITHUB USER NAME>/<REPO NAME>?style=plastic&logo=github&logoColor=181717&labelColor=white) ![GitHub contributors](https://img.shields.io/github/contributors/<GITHUB USER NAME>/<REPO NAME>?style=plastic&logo=github&logoColor=181717&labelColor=white) ![GitHub Issues](https://img.shields.io/github/issues/<GITHUB USER NAME>/<REPO NAME>?style=plastic&logo=github&logoColor=181717&labelColor=white)] (<LINK TO THE GITHUB REPOSITORY>)```
         - For **Gitlab**, use the following markdown:
             - ```[![GitLab Stars](https://img.shields.io/gitlab/stars/<GITLAB PROJECT PATH>?style=plastic&logo=gitlab&logoColor=FC6D26&labelColor=white) ![GitLab Contributors](https://img.shields.io/gitlab/contributors/<GITLAB PROJECT PATH>?style=plastic&logo=gitlab&logoColor=FC6D26&labelColor=white) ![GitLab Issues](https://img.shields.io/gitlab/issues/open/<GITLAB PROJECT PATH>?style=plastic&logo=gitlab&logoColor=FC6D26&labelColor=white)] (<LINK TO THE GITLAB REPOSITORY>)```
@@ -25,7 +25,7 @@ Found an amazing Indian app that should be featured here? It can be open-source 
         - For **Gitea**, use the following markdown:
             - ```[![Gitea Stars](https://img.shields.io/gitea/stars/<GITEA USER NAME>/<REPO NAME>?style=plastic&logo=gitea&logoColor=609926&labelColor=white) ![Gitea Issues](https://img.shields.io/gitea/issues/open/<GITEA USER NAME>/<REPO NAME>?style=plastic&logo=gitea&logoColor=609926&labelColor=white)] (<LINK TO THE GITEA REPOSITORY>)```
         - These are [Shields.io](https://shields.io) badges which fetch the latest stars on the repo, contributors count and number of issues. (No contributor count in case of Gitea/Codeberg)
-        - Feel free to add badges for more than one platform, e.g. if a user has the same repository on Github and Gitlab, feel free to add both.
+        - Feel free to add badges for more than one platform, e.g. if a user has the same repository on GitHub and Gitlab, feel free to add both.
         - The reason to include these details is to encourage the visitor to engage with the repository. (*We strongly believe that the Indian tech community has a lot of talented individuals who can have a lot of impact. All we need is a bit of encouragement!*)
     - **Community**:
         - Links to communities run by the author/company. **Supported**: Discord, Telegram, Reddit
@@ -39,9 +39,15 @@ Found an amazing Indian app that should be featured here? It can be open-source 
     - **Download**:
         - Link to the download plaform
         - Supported:
-            - **Android**: F-Droid (preferred for open-source), Play Store
-            - For F-Droid, use the following markdown:
-                - ```[<img src="assets/images/get-it-on-fdroid.png" alt="Get it on F-Droid" height="60">](<LINK TO FDROID PACKAGE>)```
+            - **Android**: F-Droid (preferred for open-source), IzzyOnDroid, GitHub, Play Store
+                - For F-Droid, use the following markdown:
+                    - ```[<img src="assets/images/get-it-on-fdroid.png" alt="Get it on F-Droid" height="60">](<LINK TO FDROID PACKAGE>)```
+                - For IzzyOnDroid, use the following markdown:
+                    - ```[<img src="assets/images/get-it-on-izzyondroid.png" alt="Get it on IzzyOnDroid" height="60">](<LINK TO IZZYONDROID PACKAGE>)```
+                - For GitHub, use the following markdown:
+                    - ```[<img src="assets/images/get-it-on-github.png" alt="Get it on GitHub" height="60">](<LINK TO GITHUB RELEASE PAGE>)```
+                - For Google Play, use the following markdown:
+                    - ```[<img src="assets/images/get-it-on-play.png" alt="Get it on Google Play" height="60">](<LINK TO PLAY STORE PACKAGE>)```
         - Feel free to add links for more than one download platform
 3. Submit a Pull Request
 
