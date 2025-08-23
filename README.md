@@ -70,6 +70,7 @@ Welcome to the curated collection of amazing applications by Indian developers a
             </td>
             <!-- Web & Media -->
             <td style="text-align: center">
+                X
             </td>
             <!-- Download -->
             <td style="text-align: center">
@@ -481,6 +482,7 @@ Welcome to the curated collection of amazing applications by Indian developers a
             </td>
             <!-- Community -->
             <td style="text-align: center">
+                X
             </td>
             <!-- Web & Media -->
             <td style="text-align: center">
@@ -522,6 +524,60 @@ Welcome to the curated collection of amazing applications by Indian developers a
                 </a>
                 <a
                     href="https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.tenbitclockwidget"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        src="assets/images/get-it-on-play.png"
+                        alt="Get it on Google Play"
+                        height="60"
+                    />
+                </a>
+            </td>
+            <!-- Author -->
+            <td style="text-align: center">
+                <a href="#author-ashutosh-gangwar">Ashutosh Gangwar</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## Closed Source
+#### Android apps
+
+<table>
+    <thead>
+        <tr>
+            <th style="text-align: center">Category</th>
+            <th style="text-align: center">Name</th>
+            <th style="text-align: center">Description</th>
+            <th style="text-align: center">Community</th>
+            <th style="text-align: center">Web & Media</th>
+            <th style="text-align: center">Download</th>
+            <th style="text-align: center">Author</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Game</td>
+            <td><strong>Tic Tac Toe II</strong></td>
+            <td>
+                Comes with online multiplayer. Contains bugs and ads. Play at your own risk.
+            </td>
+            <!-- Community -->
+            <td style="text-align: center">
+                X
+            </td>
+            <!-- Web & Media -->
+            <td style="text-align: center">
+                X
+            </td>
+            <!-- Download -->
+            <td style="text-align: center">
+                <a
+                    href="https://play.google.com/store/apps/details?id=io.github.ashutoshgngwr.tictactoe2"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
