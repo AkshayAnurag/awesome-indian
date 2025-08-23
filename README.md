@@ -2,7 +2,7 @@
 Welcome to the curated collection of amazing applications by Indian developers and companies! Discover apps and the great people who built them!
 
 ## Open Source
-### Android apps
+#### Android apps
 
 <table>
     <thead>
@@ -175,16 +175,16 @@ Welcome to the curated collection of amazing applications by Indian developers a
 ---
 
 ## Unsung heroes
-While working on this list, I realized a major issue deep-rooted in the Indian psyche. The top GitHub users from India have repositories filled with tutorials and demo applications which accompany their blogs, but they don't have a single app published on F-Droid/Play Store and other platforms. Thousands, if not lakhs of people follow them and some may even idealize them, but the lack of direct contribution to the open-source community from the most followed users creates a void in the Indian Tech Community - a lack of sense of building.
+While working on this list, I realized a major issue deep-rooted in the Indian psyche. The top GitHub users from India have repositories filled with tutorials and demo applications which accompany their blogs, but they don't have a single app published on F-Droid/Play Store and other platforms. Thousands, if not lakhs of people follow them and some may even idolize them, but the lack of direct contribution to the open-source community from the most followed users creates a void in the Indian Tech Community - **a lack of sense of building**.
 
 When we see the leaders teach but not build, a whole generation of students (future developers) lacks the will to build. While it's important to teach, it's equally, if not more important to create.
-The leaders needed to foster a community of contribution, that would have lead the Indian Tech Community to build apps for India.
+The leaders needed to foster a community of contribution, that would have led the Indian Tech Community to build apps for India.
 
 Therefore, we want to list the "**unsung heroes**" of the community - those who put in the effort and built something - for the community - whether big or small. Those who showed the will to build their own communities, encouraging discussion and contribution.
 
 This repository is a homage to the ones we don't know about, the ones we rarely discover. Their apps, their communities - their effort to build the new India. Discover the authors and their creations - be motivated, connect with them, their communities - and contribute.
 
-Fire up your keyboards for something positive!
+#### _**Fire up your keyboards for something positive!**_
 
 <table>
     <thead>
@@ -193,7 +193,7 @@ Fire up your keyboards for something positive!
             <th style="text-align: center">Github</th>
             <th style="text-align: center">Social</th>
             <th style="text-align: center">Communities</th>
-            <th style="text-align: center">Website</th>
+            <th style="text-align: center">Website(s)</th>
         </tr>
     </thead>
     <tbody>
@@ -279,8 +279,8 @@ Fire up your keyboards for something positive!
                     />
                 </a>
             </td>
-            <!-- Website -->
-            <td style="text-align: center">
+            <!-- Website(s) -->
+            <td>
                 <a
                     href="https://sakethpathike.github.io/"
                     target="_blank"
@@ -355,8 +355,8 @@ Fire up your keyboards for something positive!
                     />
                 </a>
             </td>
-            <!-- Website -->
-            <td style="text-align: center">
+            <!-- Website(s) -->
+            <td>
                 <a
                     href="https://pool-of-tears.github.io"
                     target="_blank"
@@ -390,8 +390,8 @@ Fire up your keyboards for something positive!
 *This showcase is maintained by Indian developers, for Indian developers. Star ⭐ this repository to show your support!*
 
 ## Valuable Resources
-### [Coming Up!] Indian Open-Source Communities
-### [Coming Up!] Indian Open-Source Blogs
+#### [Coming Up!] Indian Open-Source Communities
+#### [Coming Up!] Indian Open-Source Blogs
 
 ---
 
